@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Juan Guncay · Hi, I'm Juan Guncay 👋</h1>
+<h1 align="center">Hola, soy Juan Guncay </h1>
 <h3 align="center">Ingeniero Electrónico · Electronics Engineer<br/>Robótica · Robotics · ROS 2</h3>
 
 <p align="center">
