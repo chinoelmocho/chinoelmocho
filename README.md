@@ -66,7 +66,7 @@ I'm an **electronics engineer** passionate about **robotics**. I focus on the de
 ### UVIX — Robot asistencial · Assistive robot
 
 <p align="center">
-  <img src="assets/uvix.png" alt="UVIX robot" width="300"/>
+  <img src="uvix.png" alt="UVIX robot" width="300"/>
 </p>
 
 **🇪🇸** Plataforma robótica móvil de tracción diferencial para el cuidado de adultos mayores, diseñada en simulación con **ROS 2 + Gazebo**:
@@ -86,7 +86,7 @@ I'm an **electronics engineer** passionate about **robotics**. I focus on the de
 ### Brazo robótico · Robotic arm
 
 <p align="center">
-  <img src="assets/brazo.png" alt="Robotic arm" width="300"/>
+  <img src="brazo.png" alt="Robotic arm" width="300"/>
 </p>
 
 **🇪🇸** Diseño mecánico de un brazo robótico con piezas impresas en 3D y actuadores paso a paso.
