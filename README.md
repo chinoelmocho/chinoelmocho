@@ -109,7 +109,7 @@ I'm an **electronics engineer** passionate about **robotics**. I focus on the de
 
 ---
 
-## 📊 Estadísticas · GitHub stats
+
 
 ## 📊 Estadísticas · GitHub stats
 
