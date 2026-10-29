@@ -111,15 +111,11 @@ I'm an **electronics engineer** passionate about **robotics**. I focus on the de
 
 ## 📊 Estadísticas · GitHub stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chinoelmocho&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinoelmocho&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
+## 📊 Estadísticas · GitHub stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=chinoelmocho&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
 </p>
-
 ---
 
 ## 📫 Contacto · Contact
